@@ -1,4 +1,4 @@
-# Postfix Testing
+# Postfix Testing Docker-Compose Setup
 ## Setup DKIM
 This will generate the dkim files
 ```
